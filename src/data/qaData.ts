@@ -21,6 +21,68 @@ export const qaData: QAPair[] = [
     "question": "Where is Hiranandani Group headquartered?",
     "answer": "The headquarters is located in Mumbai, Maharashtra, India."
   },
+  [
+  {
+    "question": "Who are you?",
+    "answer": "I\u2019m Deepak Pandit, a passionate Front-End Web Developer and UI/UX enthusiast from Mumbai, currently pursuing a B.Sc. in Computer Science."
+  },
+  {
+    "question": "Where are you currently studying?",
+    "answer": "I\u2019m studying at R.D. & S.H. National College, Bandra, Mumbai, pursuing a B.Sc. in Computer Science (2022\u20132025)."
+  },
+  {
+    "question": "What was your recent work experience?",
+    "answer": "I worked as a Data Analyst Intern at Yotta Infrastructure Solutions Pvt. Ltd., Navi Mumbai, focusing on data extraction, cleaning, and visualization."
+  },
+  {
+    "question": "What tools do you use for data analysis?",
+    "answer": "I use Excel, SQL, and Python to perform data extraction, cleaning, visualization, and reporting."
+  },
+  {
+    "question": "What skills do you specialize in?",
+    "answer": "I specialize in Front-End Web Development, UI/UX Design, HTML, CSS, JavaScript, Python, and data analysis."
+  },
+  {
+    "question": "Have you done any government-certified training?",
+    "answer": "Yes, I\u2019ve completed a cyber security training organized by the Ministry of Electronics and IT, Government of India, including cyber hygiene practices."
+  },
+  {
+    "question": "Have you done any online training?",
+    "answer": "Yes, I completed the TCS iON Career Edge \u2013 Young Professional program, which included modules in communication, business etiquette, and IT awareness."
+  },
+  {
+    "question": "What is your career goal?",
+    "answer": "My goal is to advance in web development and UI/UX design, and to pursue higher studies in computer science while staying updated with industry trends."
+  },
+  {
+    "question": "Do you work well in teams?",
+    "answer": "Absolutely. I\u2019m team-oriented and thrive in collaborative environments where I can contribute and learn."
+  },
+  {
+    "question": "How can I contact you?",
+    "answer": "You can email me at panditdeepak197@gmail.com or call me at 7021766128."
+  },
+  {
+    "question": "What frontend technologies do you use?",
+    "answer": "I use HTML, CSS, JavaScript, and frameworks like React to build responsive web interfaces."
+  },
+  {
+    "question": "Where are you based?",
+    "answer": "I\u2019m currently based in Powai, Mumbai."
+  },
+  {
+    "question": "Are you open to internships or freelance work?",
+    "answer": "Yes, I\u2019m actively looking for internship opportunities and freelance web development projects."
+  },
+  {
+    "question": "What soft skills do you have?",
+    "answer": "I\u2019m skilled in communication, time management, problem-solving, and adaptability."
+  },
+  {
+    "question": "What does UI/UX mean to you?",
+    "answer": "To me, UI/UX is about creating user-centric, visually appealing, and functionally effective digital experiences."
+  }
+]
   {
     "question": "What are the main residential projects by Hiranandani in Mumbai?",
     "answer": "Hiranandani Gardens (Powai), Hiranandani Estate (Thane), and One Hiranandani Park (Thane)."
