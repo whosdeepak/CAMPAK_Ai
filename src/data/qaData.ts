@@ -82,7 +82,7 @@ export const qaData: QAPair[] = [
     "question": "What does UI/UX mean to you?",
     "answer": "To me, UI/UX is about creating user-centric, visually appealing, and functionally effective digital experiences."
   }
-]
+
   {
     "question": "What are the main residential projects by Hiranandani in Mumbai?",
     "answer": "Hiranandani Gardens (Powai), Hiranandani Estate (Thane), and One Hiranandani Park (Thane)."
