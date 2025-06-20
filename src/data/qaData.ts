@@ -21,7 +21,7 @@ export const qaData: QAPair[] = [
     "question": "Where is Hiranandani Group headquartered?",
     "answer": "The headquarters is located in Mumbai, Maharashtra, India."
   },
-  [
+  
   {
     "question": "Who are you?",
     "answer": "I\u2019m Deepak Pandit, a passionate Front-End Web Developer and UI/UX enthusiast from Mumbai, currently pursuing a B.Sc. in Computer Science."
