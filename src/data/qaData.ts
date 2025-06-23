@@ -357,5 +357,125 @@ export const qaData: QAPair[] = [
   {
     "question": "What kind of projects does Deepak work on?",
     "answer": "Deepak works on front-end projects, UI/UX prototypes, and full-stack applications using modern technologies."
+  },
+  {
+    "question": "What is Deepak's full name?",
+    "answer": "My full name is Deepak Pandit."
+  },
+  {
+    "question": "Where is Deepak from?",
+    "answer": "I'm from Mumbai, Maharashtra."
+  },
+  {
+    "question": "What languages does Deepak speak?",
+    "answer": "I speak English, Hindi, and Marathi."
+  },
+  {
+    "question": "What are Deepak's interests?",
+    "answer": "I'm interested in coding, UI/UX design, learning new tech tools, and creating web experiences."
+  },
+  {
+    "question": "What is Deepak currently doing?",
+    "answer": "I'm currently pursuing my B.Sc. in Computer Science and working on web development projects."
+  },
+  {
+    "question": "What is Deepak's email?",
+    "answer": "My email is panditdeepak197@gmail.com."
+  },
+  {
+    "question": "What college does Deepak attend?",
+    "answer": "I study at R.D. & S.H. National College, Bandra (W), Mumbai."
+  },
+  {
+    "question": "When will Deepak graduate?",
+    "answer": "I'm expected to graduate in 2025."
+  },
+  {
+    "question": "Has Deepak done any certifications?",
+    "answer": "Yes, I've completed courses in Cyber Security by MeitY and the TCS iON Career Edge program."
+  },
+  {
+    "question": "What did Deepak study in 12th?",
+    "answer": "I studied HSC Science with a focus on computer subjects."
+  },
+  {
+    "question": "Where did Deepak intern?",
+    "answer": "I interned at Yotta Infrastructure Solutions Pvt. Ltd. as a Data Analyst Intern."
+  },
+  {
+    "question": "What did Deepak do at Yotta?",
+    "answer": "I worked on data extraction, cleaning, and visualization using tools like Excel, SQL, and Python."
+  },
+  {
+    "question": "What industries has Deepak worked in?",
+    "answer": "I've worked in the data analysis and web development space, with a focus on tech and IT."
+  },
+  {
+    "question": "What programming languages does Deepak know?",
+    "answer": "HTML, CSS, JavaScript, and Python."
+  },
+  {
+    "question": "What is Deepak's frontend stack?",
+    "answer": "I use HTML, CSS, JavaScript, and React for front-end development."
+  },
+  {
+    "question": "Is Deepak a UI/UX designer?",
+    "answer": "Yes, I have a strong interest and practical experience in UI/UX design."
+  },
+  {
+    "question": "Does Deepak work with databases?",
+    "answer": "Yes, I've used MySQL and SQL for data-related projects."
+  },
+  {
+    "question": "Can Deepak build responsive websites?",
+    "answer": "Yes, I build responsive, mobile-friendly websites using modern CSS frameworks and flexbox/grid."
+  },
+  {
+    "question": "What tools does Deepak use for design?",
+    "answer": "I use tools like Figma and Canva for UI/UX and visual design work."
+  },
+  {
+    "question": "Can Deepak work with APIs?",
+    "answer": "Yes, I can integrate REST APIs into frontend apps using JavaScript or frameworks like React."
+  },
+  {
+    "question": "Is Deepak a team player?",
+    "answer": "Definitely! I work well in teams and enjoy collaborating on projects."
+  },
+  {
+    "question": "How does Deepak handle challenges?",
+    "answer": "I break down problems into smaller parts and focus on solutions one step at a time."
+  },
+  {
+    "question": "What are Deepak's strengths?",
+    "answer": "I'm creative, detail-oriented, and highly motivated to learn and build."
+  },
+  {
+    "question": "What is Deepak's attitude toward learning?",
+    "answer": "I'm always eager to explore new technologies and stay updated with trends in web development."
+  },
+  {
+    "question": "Is Deepak reliable?",
+    "answer": "Yes, I take responsibility seriously and strive to deliver quality work on time."
+  },
+  {
+    "question": "What are Deepak's future plans?",
+    "answer": "I plan to pursue higher studies or roles in web development and UI/UX design."
+  },
+  {
+    "question": "Is Deepak open to relocation?",
+    "answer": "Yes, I'm open to new cities or remote roles that match my career goals."
+  },
+  {
+    "question": "What kind of roles is Deepak looking for?",
+    "answer": "I'm looking for internships, freelance, or full-time junior developer roles."
+  },
+  {
+    "question": "Is Deepak available for freelance work?",
+    "answer": "Yes, I'm open to freelance web development and UI/UX projects."
+  },
+  {
+    "question": "What is Deepak's dream job?",
+    "answer": "A role where I can blend creativity and code — like a UI Developer or Product Designer."
   }
 ];
