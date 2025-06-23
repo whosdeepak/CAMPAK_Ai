@@ -7,4 +7,17 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  build: {
+    rollupOptions: {
+      input: {
+        main: './index.html',
+        embed: './src/embed.tsx'
+      },
+      output: {
+        entryFileNames: (chunkInfo) => {
+          return chunkInfo.name === 'embed' ? 'campak-bot.js' : '[name]-[hash].js';
+        }
+      }
+    }
+  }
 });
