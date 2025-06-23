@@ -317,5 +317,45 @@ export const qaData: QAPair[] = [
   {
     "question": "Where can I find employee reviews for Hiranandani?",
     "answer": "Platforms like Glassdoor, AmbitionBox, and Indeed have reviews from current and former employees."
+  },
+  {
+    "question": "Who is Deepak Pandit?",
+    "answer": "Deepak Pandit is a Front-End Web Developer and UI/UX enthusiast based in Mumbai, currently pursuing a B.Sc. in Computer Science."
+  },
+  {
+    "question": "Where is Deepak based?",
+    "answer": "Deepak is based in Powai, Mumbai, Maharashtra."
+  },
+  {
+    "question": "What is Deepak studying?",
+    "answer": "He is pursuing a Bachelor of Science in Computer Science at R.D. & S.H. National College, Bandra, Mumbai."
+  },
+  {
+    "question": "What are Deepak's technical skills?",
+    "answer": "Deepak specializes in HTML, CSS, JavaScript, Python, UI/UX Design, and Data Analysis."
+  },
+  {
+    "question": "What is Deepak passionate about?",
+    "answer": "Deepak is passionate about creating engaging web interfaces and improving user experiences through thoughtful design."
+  },
+  {
+    "question": "Has Deepak done any internships?",
+    "answer": "Yes, Deepak worked as a Data Analyst Intern at Yotta Infrastructure Solutions Pvt. Ltd., where he focused on data extraction, cleaning, and visualization."
+  },
+  {
+    "question": "What tools does Deepak use for data analysis?",
+    "answer": "He uses tools like Excel, SQL, and Python for data processing, analysis, and reporting."
+  },
+  {
+    "question": "Is Deepak looking for new opportunities?",
+    "answer": "Yes, Deepak is open to internship and freelance opportunities in web development and UI/UX design."
+  },
+  {
+    "question": "How can I get in touch with Deepak?",
+    "answer": "You can contact him via email at panditdeepak197@gmail.com or call him at 7021766128."
+  },
+  {
+    "question": "What kind of projects does Deepak work on?",
+    "answer": "Deepak works on front-end projects, UI/UX prototypes, and full-stack applications using modern technologies."
   }
 ];

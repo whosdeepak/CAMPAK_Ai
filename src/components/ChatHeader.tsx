@@ -8,7 +8,7 @@ const ChatHeader: React.FC = () => {
         <div className="relative">
           <div className="w-12 h-12 bg-white bg-opacity-20 rounded-full flex items-center justify-center backdrop-blur-sm overflow-hidden">
             <img 
-              src="/images.png" 
+              src="/images.jpg" 
               alt="CAMPAK BOT Logo" 
               className="w-8 h-8 object-contain"
             />
